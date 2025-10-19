@@ -12,6 +12,8 @@
 
  #### A guide for getting started with Self Hosting devices including software and hardware that will make you a better and more efficient Self Hosting.
  
+ **📋 [View the Guide Breakdown](BREAKDOWN.md)** - A comprehensive overview and summary of all topics covered in this guide.
+ 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
  **Note 2: This guide will constantly be updated with new info as becomes available and please feel to make an [issue](https://github.com/mikeroyal/Self-Hosting-Guide/issues) if you think something should be added.**
